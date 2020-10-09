@@ -1,14 +1,21 @@
 # Sistemas Operacionais [:link:](https://github.com/ruanpato/sistemasOperacionais) #
 
-Este repositório é voltado a unir módulos de outros repositórios respectivos ao componente curricular Obrigatório de Organização de Computadores que cursei na minha graduação de Bacharel em Ciência da Computação na Universidade Federal da Fronteira Sul.
+Repositório criado para armazenar meus exercícios e trabalho referentes ao componente curricular obrigatório Sistemas Operacionais cursado no de Bacharel em Ciência da computação na Universidade Federal da Fronteira Sul, campus Chapecó/SC.
 
 ## Sumário ##
 
-- [Organização de computadores :link:](#sistemas-operacionais-link)
+- [Sistemas Operacionais :link:](#sistemas-operacionais-link)
   - [Sumário](#sumário)
+  - [Trabalhos](#trabalhos)
   - [Descrição](#descrição)
   - [Ferramentas utilizadas 🛠️](#ferramentas-utilizadas-️)
   - [Autor](#autor)
+
+## Trabalhos ##
+
+- [Trabalhos 🧰](https://github.com/ruanpato/sistemasOperacionais/tree/master/trabalhos)
+  - [Trabalho 1 🔧](https://github.com/ruanpato/sistemasOperacionais/tree/master/trabalhos/1)
+  - [Trabalho 2 ⚙](https://github.com/ruanpato/sistemasOperacionais/tree/master/trabalhos/2)
 
 ## Descrição ##
 
