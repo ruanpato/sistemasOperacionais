@@ -1,4 +1,4 @@
-# Trabalho 1 [:link:](https://github.com/ruanpato/sistemasOperacionais/tree/master/trabalhos/1) #
+# Trabalho 1 [:link:](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos/1) #
 
 ## Sumário ##
 
@@ -23,6 +23,10 @@ O trabalho consite em apresentar uma solução (funcional) para o problema, já 
 Para tanto, deve-se empregar a chamada de sistema "pthread_mutex_trylock" que é a variante não bloqueante de acesso (lock) em mutexes. Consulte a página do manual no sistema para obter todos os detalhes sobre essa chamada.
 
 O que submeter: o código fonte, via moodle até 11/10
+
+Para compilar use:
+
+>gcc deadlock.c -lpthread -o deadlock
 
 ## Ferramentas utilizadas 🛠️ ##
 

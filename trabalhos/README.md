@@ -1,4 +1,4 @@
-# Trabalhos [:link:](https://github.com/ruanpato/sistemasOperacionais/tree/master/trabalhos) #
+# Trabalhos [:link:](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos) #
 
 Repositório criado para armazenar meus Trabalhos referentes ao componente curricular obrigatório Sistemas Operacionais cursado no de Bacharel em Ciência da computação na Universidade Federal da Fronteira Sul, campus Chapecó/SC.
 
@@ -12,8 +12,8 @@ Repositório criado para armazenar meus Trabalhos referentes ao componente curri
 
 ## Trabalhos ##
 
-- [Trabalho 1 🔧](https://github.com/ruanpato/sistemasOperacionais/tree/master/trabalhos/1)
-- [Trabalho 2 ⚙](https://github.com/ruanpato/sistemasOperacionais/tree/master/trabalhos/2)
+- [Trabalho 1 🔧](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos/1)
+- [Trabalho 2 ⚙](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos/2)
 
 ## Ferramentas utilizadas 🛠️ ##
 
