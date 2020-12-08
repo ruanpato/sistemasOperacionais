@@ -16,6 +16,9 @@ Repositório criado para armazenar meus exercícios e trabalho referentes ao com
 - [Trabalhos 🧰](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos)
   - [Trabalho 1 🔧](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos/1)
   - [Trabalho 2 ⚙](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos/2)
+  - [Trabalho 3 ⚙](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos/3)
+  - [Trabalho 4 ⚙](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos/4)
+  - [Trabalho 5 ⚙](https://github.com/ruanpato/sistemasOperacionais/tree/main/trabalhos/5)
 
 ## Descrição ##
 
