@@ -10,9 +10,7 @@
 
 ## Descrição ##
 
-Apresentar duas soluções (i.e., dois programas distintos) para o problema descrito abaixo: a primeira solução
-
-empregando mutexes e semáforos e, a segunda solução empregando mutexes e variáveis condicionais.
+Apresentar duas soluções (i.e., dois programas distintos) para o problema descrito abaixo: a primeira solução empregando mutexes e semáforos e, a segunda solução empregando mutexes e variáveis condicionais.
 
 Descrição do problema:
 
@@ -34,7 +32,7 @@ Descrição do problema:
 
 O incremento da variável global finaliza quando atingir um valor pré-estabelecido MAX (definido também pelo usuário).
 
-PRAZO DE ENTREGA: 07/11
+**Prazo de Entrega: 07/11**
 
 ## Ferramentas utilizadas 🛠️ ##
 

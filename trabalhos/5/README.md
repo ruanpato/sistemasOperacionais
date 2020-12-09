@@ -12,8 +12,6 @@
 
 Apresentar uma implementação (em linguagem C, no Linux) para o problema do Sleeping Barber Problem (Problema do Barbeiro Adormecido).
 
-Prazo de entrega: 03/12
-
 Observações importantes:
 
 - O barbeiro deve ser representado por uma thread.
@@ -27,6 +25,8 @@ Observações importantes:
 Referência  (esse documento da wikipedia é baseado na versão do problema apresentada no livro do Tanenbaum, segunda edição)
 
 <https://en.wikipedia.org/wiki/Sleeping_barber_problem>
+
+**Prazo de entrega: 03/12**
 
 ## Ferramentas utilizadas 🛠️ ##
 
